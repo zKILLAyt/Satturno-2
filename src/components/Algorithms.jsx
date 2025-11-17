@@ -1,0 +1,1 @@
+export default function Algorithms(){return <h1>Algoritmos</h1>}

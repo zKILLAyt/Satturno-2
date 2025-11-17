@@ -1,0 +1,1 @@
+export default function ChatIA(){return <div class='chatIA'></div>}

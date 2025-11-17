@@ -1,0 +1,1 @@
+export function generateScramble(){return 'R U R\' U\'';}
